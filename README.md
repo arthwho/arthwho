@@ -1,13 +1,7 @@
-<h1 align="center">Ei! Bem vind*!</h1>
+<h1 align="center">> Olá, bem vind<img src="https://github.com/arthwho/arthwho/assets/111618104/a26fc59e-68ca-4368-b447-bffc86f6127e" width="30em">!</h1>
 <p align="center">
-  <b>Eu sou o Arthur, e você?</b><br><hr><br>
-  <ul>
-    <li>Estudante de Sistemas de Informação</li>
-    <li>Atualmente estudando Java e C</li>
-    <li>Pretendo conhecer o famigerado Python! (Quando tiver tempo)</li>
-  </ul>
+  <b>[ Sou o Arthur, estudante de Sistemas da Informação! ]</b><br><hr><br>
 </p>
-
 
 <!--
 ### Olá! 👋
