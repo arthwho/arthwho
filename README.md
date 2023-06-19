@@ -1,5 +1,11 @@
 <h1 align="center">Ei! Bem vind*!</h1>
 <p align="center">
+  <b>Eu sou o Arthur, e você?</b><br><hr><br>
+  <ul>
+    <li>Estudante de Sistemas de Informação</li>
+    <li>Atualmente estudando Java e C</li>
+    <li>Pretendo conhecer o famigerado Python! (Quando tiver tempo)</li>
+  </ul>
 </p>
 
 
