@@ -1,3 +1,6 @@
+<h1 align="center">Ei! Bem vind*!</h1>
+<p align="center">
+</p>
 
 
 <!--
@@ -15,4 +18,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://github.com/arthwho/arthwho/assets/111618104/a346683f-88b3-4b21-a84a-756350b91e2a">
+<br><br><br>
+<p align="center">
+  <img src="https://github.com/arthwho/arthwho/assets/111618104/a346683f-88b3-4b21-a84a-756350b91e2a">
+</p>
