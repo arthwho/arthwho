@@ -3,6 +3,19 @@
   <b>[ Sou o Arthur, estudante de Sistemas da Informação! ]</b><br><hr><br>
 </p>
 
+<a href="https://github.com/arthwho">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=arthwho&theme=gotham&bg_color=00000000" />
+</a>
+<a href="https://github.com/arthwho">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=arthwho&layout=compact&langs_count=8&card_width=320&theme=gotham&bg_color=00000000" />
+</a>
+
+<br><br><br>
+<p align="center">
+  <img src="https://github.com/arthwho/arthwho/assets/111618104/a346683f-88b3-4b21-a84a-756350b91e2a">
+  <img src="https://github.com/arthwho/arthwho/assets/111618104/a346683f-88b3-4b21-a84a-756350b91e2a">
+</p>
+
 <!--
 ### Olá! 👋
 **arthwho/arthwho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,7 +31,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<br><br><br>
-<p align="center">
-  <img src="https://github.com/arthwho/arthwho/assets/111618104/a346683f-88b3-4b21-a84a-756350b91e2a">
-</p>
