@@ -3,12 +3,14 @@
   <b>[ Sou o Arthur, estudante de Sistemas da Informação! ]</b><br><hr><br>
 </p>
 
+<!--
 <a href="https://github.com/arthwho">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=arthwho&theme=gotham&bg_color=00000000&card_width=300" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=arthwho&theme=gotham&bg_color=00000000" />
 </a>
 <a href="https://github.com/arthwho">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=arthwho&layout=compact&langs_count=8&card_width=300&theme=gotham&bg_color=00000000" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320&theme=gotham&bg_color=00000000" />
 </a>
+-->
 
 <br><br><br>
 <p align="center">
