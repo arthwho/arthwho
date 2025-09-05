@@ -1,9 +1,9 @@
 <!-- Welcome Header !-->
 <div style="padding: 50px 0;">
   <p align="center">
-    <img src="https://github.com/user-attachments/assets/069295d4-d0e5-467d-8477-b2a23877b115" alt="christopher-haugen-heart-rotate4" width="45px" style="vertical-align:middle;">
-    <img src="https://github.com/user-attachments/assets/7b2dca52-4b65-48c6-aca6-be5937cacdd7" alt="hello" height="50px" style="vertical-align:middle;">
-    <img src="https://github.com/user-attachments/assets/069295d4-d0e5-467d-8477-b2a23877b115" alt="christopher-haugen-heart-rotate4" width="45px" style="vertical-align:middle;">
+    <img src="https://github.com/user-attachments/assets/069295d4-d0e5-467d-8477-b2a23877b115" alt="christopher-haugen-heart-rotate4" width="5%" style="vertical-align:middle;">
+    <img width="40%" alt="Group 29" src="https://github.com/user-attachments/assets/6629fc31-e98c-47ea-bfbc-0e7c5909e264" />
+    <img src="https://github.com/user-attachments/assets/069295d4-d0e5-467d-8477-b2a23877b115" alt="christopher-haugen-heart-rotate4" width="5%" style="vertical-align:middle;">
   </p>
 </div>
 <br>
@@ -11,10 +11,13 @@
 <table style="width: 100%; table-layout: fixed; border: none;" cellpadding="0" cellspacing="0">
 <tr>
   <!-- Left side !-->
-  <td width="40%" valign="top" style="padding: 0 10px; border: none;">
+  <td width="40%" valign="top">
    <h3 align="center"><!-- TEXTO!!!!!!!!!--></h3>
-   <p align="center">
-     <!-- TEXTO!!!!!!!!!-->
+    <p align="left">
+     Undergraduate student of information systems at UFOP
+   </p>
+   <p align="left">
+     See my most recent project: <a href="https://github.com/arthwho/CompuDECSI">CompuDECSI</a>!
    </p>
   </td>
   
